@@ -12,7 +12,6 @@ This folder has the raw & extracted datafiles of this project. The description o
 
 * [5.urldata.csv](https://github.com/shreyagopal/Phishing-Website-Detection-by-Machine-Learning-Techniques/blob/master/DataFiles/5.urldata.csv) This file is nothing but a combination of the above two files. It contains extracted features of 10,000 URLs both legitimate & phishing.
 
-
 https://colab.research.google.com/drive/1ku3nPsNdHOiHn_KKHp7CzTPxfC2-EHZR?usp=sharing
 GITREPO:https://github.com/Saiprasath03/IBM-Project-26802-1660038070
 DEMO:https://drive.google.com/file/d/1VUJ-Bui7XX25v96rYQ0jyPoQl2Pcbfpf/view?usp=drivesdk
